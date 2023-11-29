@@ -19,7 +19,7 @@
 ---
 
 ### where can you find me?
-- [neocities](https://www.honeybread.neocities.com)
+- [neocities](https://www.honeybread.neocities.org)
 - [twitch](https://twitch.tv/h0neybre4d)
 - lost in central park
 
