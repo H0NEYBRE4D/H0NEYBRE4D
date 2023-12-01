@@ -4,7 +4,7 @@
 - 👀 i’m interested in the slow web, sipping on iced drinks and silent hill.
 - 🌱 i’m currently learning how to code, starting with html & css. 
 - 💞️ i’m looking to collaborate on any sort of "old web" project!
-- 📫 visit my neocities or shoot me an email.
+- 📫 visit my neocities or shoot me an email if you'd like to hang and/or fall in love.
 
 ---
 
