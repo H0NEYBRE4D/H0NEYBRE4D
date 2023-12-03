@@ -10,9 +10,10 @@
 
 ### what am I working on?
 
+- [ ] design terminal version of site using ssg
 - [x] rewriting css for new theme
 - [ ] finishing I SPY homepage
-- [ ] exploring 11ty and jekyll
+- [x] exploring 11ty and jekyll
 - [ ] deciding between .land and .cafe
 - [ ] researching a.m. radio
 
