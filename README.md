@@ -10,11 +10,13 @@
 
 ### what am I working on?
 
-- [ ] design terminal version of site using ssg
+- [x] design terminal version of site
+- [ ] develop kira.church
+- [ ] brainstorm tende.rest concepts
 - [x] rewriting css for new theme
 - [ ] finishing I SPY homepage
 - [x] exploring 11ty and jekyll
-- [ ] deciding between .land and .cafe
+- [x] deciding between .land and .cafe
 - [ ] researching a.m. radio
 
 ---
