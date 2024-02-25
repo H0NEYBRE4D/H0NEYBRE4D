@@ -12,7 +12,7 @@
 
 - [ ] developing kira.church
 - [ ] brainstorm tende.rest concepts
-- [-] finishing I SPY homepage
+- [/] finishing I SPY homepage
 - [ ] learning 11ty and ssgs
 - [x] researching a.m. radio
 - [x] setting up a tv antenna
