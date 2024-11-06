@@ -11,13 +11,12 @@
 ### what am I working on?
 
 - [ ] developing kira.church
-- [ ] brainstorm tende.rest concepts
+- [x] brainstorm tende.rest concepts
 - [x] finishing I SPY homepage
 - [ ] finishing I SPY blog
-- [ ] learning 11ty and ssgs
 - [x] researching a.m. radio
 - [x] setting up a tv antenna
-- [ ] investing in an ipod
+- [x] investing in an ipod
 
 ---
 
